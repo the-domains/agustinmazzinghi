@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[agustinmazzinghi]]></title>
-        <description><![CDATA[agustinmazzinghi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Agustín Mazzinghi]]></title>
+        <description><![CDATA[Agustín Mazzinghi]]></description>
+        <link>https://thegrid.ai/agustinmazzinghi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 22:01:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 22:37:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/agustinmazzinghi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[La verdad del asunto]]></title>
-            <description><![CDATA[<article><h1>La verdad del asunto</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8352b42-12d4-4a34-90d9-1db9f95d864f.jpg"></article>]]></description>
-            <link>undefinedla-verdad-del-asunto/index.html</link>
+            <title><![CDATA[El hermano mayor]]></title>
+            <description><![CDATA[<article><h1>El hermano mayor</h1><p>No sabíamos a qué hora cerrarían las pescaderías, así que antes de que se nos venga la noche enfilamos para el Puerto. Compramos un abadejo entero y unas rabas, por consejo de la cajera. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8352b42-12d4-4a34-90d9-1db9f95d864f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/agustinmazzinghi/la-verdad-del-asunto/index.html</link>
             <guid isPermaLink="false">4af44ca5-2dc6-4880-9c5f-0c14ca07ce44</guid>
-            <pubDate>Wed, 28 Oct 2015 22:01:15 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2015 22:37:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
