@@ -1,0 +1,23 @@
+name: agustinmazzinghi
+favicon: null
+layout_spectrum: 0.9659861018881202
+typography_spectrum: 0.7292407788336277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.412773918826133
+  lightness: 0.4415023878682405
+  saturation: 0.7968204531352967
+  rhythmicContrast: 0.7879121967125684
+purpose: []
